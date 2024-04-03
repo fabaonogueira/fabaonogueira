@@ -11,6 +11,7 @@ Como Cientista de Dados amo criar soluções inovadoras e escaláveis transforma
 ## Conecte-se
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-1B1C1E?style=for-the-badge&logo=linkedin&logoColor=0077B5&border_color=fcf901)](https://www.linkedin.com/in/faanogueira/)
 [![Gmail](https://img.shields.io/badge/Gmail-1B1C1E?style=for-the-badge&logo=gmail&logoColor=C71610)](mailto:faanogueira@gmail.com)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-1B1C1E?style=for-the-badge&logo=whatsapp&logoColor=green)](https://api.whatsapp.com/send?phone=5571983937557)
 
 ## Habilidades
 ![Python](https://img.shields.io/badge/python-1B1C1E?style=for-the-badge&logo=python&logoColor=0E76A8)
