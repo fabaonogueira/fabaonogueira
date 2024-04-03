@@ -29,7 +29,7 @@ Como Cientista de Dados amo criar soluções inovadoras e escaláveis transforma
 
 ### DataBase
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-1B1C1E?style=for-the-badge&logo=postgresql&logoColor=4285F4)]
-![MySQL](https://img.shields.io/badge/MySQL-1B1C1E?style=for-the-badge&logo=mysql&logoColor=00000F)]
+![MySQL](https://img.shields.io/badge/MySQL-1B1C1E?style=for-the-badge&logo=mysql&logoColor=white)]
 ![Sqlite](https://img.shields.io/badge/Sqlite-1B1C1E?style=for-the-badge&logo=Sqlite&logoColor=0E76A8)
 ![MongoDB](https://img.shields.io/badge/MongoDB-1B1C1E?style=for-the-badge&logo=mongodb&logoColor=4EA94B)]
 
