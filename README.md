@@ -1,7 +1,5 @@
 
-# Fábio Nogueira
-
-Repositório de teste
+# Repositório de teste
 
 ## Conecte-se
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-1B1C1E?style=for-the-badge&logo=linkedin&logoColor=0077B5&border_color=fcf901)](https://www.linkedin.com/in/faanogueira/)
